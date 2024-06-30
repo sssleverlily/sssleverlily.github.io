@@ -2,8 +2,8 @@
 title: "Cooperative Network Learning for Large-Scale and Decentralized Graphs"
 authors:
 - Qiang Wu
+- Yiming
 - admin
-- Yujie
 - Yijie Teng
 - Fang Zhou
 - Linyuan

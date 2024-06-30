@@ -1,12 +1,12 @@
 ---
 title: "Higher-order Graph Convolutional Network with Flower-Petals Laplacians on Simplicial Complexes"
 authors:
+- Yiming
 - admin
-- Yujie
 - Qiang Wu
 - Linyuan
 date: "2023-09-22"
-doi: ""
+doi: "10.1609/aaai.v38i11.29160"
 
 
 # draft：true之后就不会显示
