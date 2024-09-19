@@ -32,7 +32,7 @@ summary:  "*AAAI24*. Introduced a novel higher-order representation, the flower-
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - icon_pack: 

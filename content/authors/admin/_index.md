@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Electronic Science and Technology of China 
+- name: Queen Marry University of London 
   url: ""
 - name: CSSC team
   url: "https://linyuanlab.com/"
@@ -32,12 +32,14 @@ interests:
 
 education:
   courses:
-  - course: Studing in Computer Science and Technology
+  - course: Studying in Computing Research, 2024
+    institution: Queen Marry University of London
+  - course: MSc in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
-    year: 2021
+    year: 2024
   - course: BSc in Intelligence Science and Technology
     institution: Chongqing University of Posts and Telecommunications (CQUPT)
-    year: 2017
+    year: 2021
 
 
 # Social/Academic Networking
@@ -47,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:sssleverlily@gmail.com"
+  link: "mailto:yujie.zeng@qmul.ac.uk"
 - icon: github
   icon_pack: fab
   link: https://github.com/sssleverlily
@@ -68,7 +70,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yujie_zeng@std.uestc.edu.cn"
+email: "yujie.zeng@qmul.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

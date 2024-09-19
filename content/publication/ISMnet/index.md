@@ -31,7 +31,7 @@ summary:  "*Information Processing & Management.* Detected an inconsistency betw
 
 # tags:
 # - Source Themes
-featured: True
+featured: False
 
 links:
 - icon_pack: 

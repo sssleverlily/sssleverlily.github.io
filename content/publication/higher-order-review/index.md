@@ -32,7 +32,7 @@ summary:  "*物理学报*. 本文综述了两种最常见的高阶网络——�
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - icon_pack: 
