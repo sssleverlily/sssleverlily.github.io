@@ -16,11 +16,10 @@ role: PhD Candidate
 organizations:
 - name: Queen Marry University of London 
   url: ""
-- name: CSSC team
-  url: "https://linyuanlab.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network science, higher-order network and vital node identification.
+bio:  My research interests primarily focus on network science, higher-order network analysis, graph representation learning and interdisciplinary applications.
+
 
 interests:
 - Network Science
@@ -32,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Studying in Computing Research, 2024
+  - course: Studying in Computing Science, 2024
     institution: Queen Marry University of London
   - course: MSc in Computer Science and Technology
     institution: University of Electronic Science and Technology of China (UESTC)
@@ -79,9 +78,8 @@ user_groups:
 - Visitors
 ---
 
-I am **Yujie Zeng (曾钰洁)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
-My research interests include higher-order network dynamics, vital node Identification, and graph represent learning :wink:
 
-If you have any academic problems or seeking any form of cooperation, please feel free to email me at yujie\_zeng@std.uestc.edu.cn. 
+I am **Yujie Zeng (曾钰洁)**, a PhD student at *Queen Mary University of London*, advised by Prof. [Athen Ma](https://sites.google.com/view/athenma/home). Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
+My research interests primarily focus on network science, higher-order network analysis, graph representation learning and interdisciplinary applications. :wink:
