@@ -80,6 +80,6 @@ user_groups:
 
 
 
-I am **Yujie Zeng (曾钰洁)**, a PhD student at *Queen Mary University of London*, advised by Prof. [Athen Ma](https://sites.google.com/view/athenma/home). Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+I am **Yujie Zeng (曾钰洁)**, a PhD student at *Queen Mary University of London*, advised by Prof. [Athen Ma](https://sites.google.com/view/athenma/home) and Prof. [Vito Latora](https://webspace.maths.qmul.ac.uk/v.latora/). Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
 My research interests primarily focus on network science, higher-order network analysis, graph representation learning and interdisciplinary applications. :wink:
